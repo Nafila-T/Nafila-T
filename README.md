@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nafila-T
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Python,Node js
+- 🌱 I’m currently learning Python Django , improving Development skills
+- 
   
 - 📫 How to reach me nafimgdi784@gmail.com
 
